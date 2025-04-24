@@ -2,7 +2,7 @@ rule sliver_client : c2 implant
 {
     meta:
         description = "Sliver C2 Implant"
-        author = "Wazuh team"
+        author = "Wazuh team yamada"
         url = "https://github.com/BishopFox/sliver"
 
     strings:
